@@ -1,0 +1,17 @@
+{
+  "name": "microservice-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1",
+    "redis": "^4.7.0",
+    "uuid": "^11.0.5"
+  },
+  "type": "module",
+  "license": "ISC"
+}
